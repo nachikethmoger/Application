@@ -1,0 +1,26 @@
+{
+    "name": "chatapp",
+    "version": "1.0.0",
+    "description": "A chat app using WebSockets",
+    "main": "index.js",
+    "scripts": {
+        "dev": "nodemon index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/iamshaunjp/websockets-playlist.git"
+    },
+    "author": "nachikethmoger",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/iamshaunjp/websockets-playlist/issues"
+    },
+    "homepage": "https://github.com/iamshaunjp/websockets-playlist#readme",
+    "dependencies": {
+        "express": "^4.17.3",
+        "socket.io": "^1.7.4"
+    },
+    "devDependencies": {
+        "nodemon": "^1.19.4"
+    }
+}
