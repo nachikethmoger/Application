@@ -1,11 +1,19 @@
-DESCRIPTION
-After completing the mandatory challenge in Restart Network I learned a new technology that uses realtime experience for users. I followed Websocket IO tutorial that allows me to create the demo app. This application will allow different users to chat with each other in realtime.
+# chat-app-socket-io
 
-TECHNOLOGY USE
-Socket.IO enables real-time bidirectional event-based communication.
-Node JS
-Challenges Faced
-Deploying the app and making it work on heroku
-Project Link
-https://chat-socket-io-realtime.herokuapp.com/
+### DESCRIPTION
+
+It's a real time chat application where people connected same host or socket  can exchanges the messages b/w them in the real-time.
+
+### TECHNOLOGY USE
+
+* Socket.IO enables real-time bidirectional event-based communication.
+* Node JS
+
+### Challenges Faced
+
+* Deploying the app and making it work on heroku
+
+### Project Link
+
+ https://chat-socket-io-realtime.herokuapp.com/
 
