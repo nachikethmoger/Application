@@ -2,7 +2,7 @@
 
 ### DESCRIPTION
 
-It's a real time chat application where people connected same host or socket  can exchanges the messages b/w them in the real-time.
+It's a real time chat application where people connected to same host or socket  can exchanges the messages b/w them in the real-time.
 
 ### TECHNOLOGY USE
 
