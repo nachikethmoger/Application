@@ -15,5 +15,5 @@ It's a real time chat application where people connected to same host or socket 
 
 ### Project Link
 
- https://chat-socket-io-realtime.herokuapp.com/
+ https://chatbynachiketh.herokuapp.com/
 
