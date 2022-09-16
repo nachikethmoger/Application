@@ -9,11 +9,3 @@ It's a real time chat application where people connected to same host or socket 
 * Socket.IO enables real-time bidirectional event-based communication.
 * Node JS
 
-### Challenges Faced
-
-* Deploying the app and making it work on heroku
-
-### Project Link
-
- https://chatbynachiketh.herokuapp.com/
-
