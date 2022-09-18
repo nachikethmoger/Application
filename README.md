@@ -9,6 +9,14 @@ It's a real time chat application where people connected to same host or socket 
 * Socket.IO enables real-time bidirectional event-based communication.
 * Node JS
 
+### Usage
+npm install
+
+npm run dev
+
+Go to localhost:3000
+
+
 
 ### Output
 
